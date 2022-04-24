@@ -1,6 +1,8 @@
 # NOTE: update this with your service name
 service: openai-gpt3-test
 
+app: story-teller
+
 # Create an optimized package for our functions 
 package:
   individually: true
