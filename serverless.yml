@@ -1,5 +1,5 @@
 # NOTE: update this with your service name
-service: open-ai-hey-borges
+service: openai-gpt3-test
 
 # Create an optimized package for our functions 
 package:
